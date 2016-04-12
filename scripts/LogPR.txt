@@ -1,0 +1,3 @@
+Timestamp
+Set date "{Timestamp}"
+Log "C:\Users\Niclas\Desktop\JAutomate Data/testlog.csv" , "Testet genomfört {date}"

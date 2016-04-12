@@ -1,0 +1,7 @@
+Begin "settings"
+	AnimateCursor no
+	WaitStableScreen no
+End
+Call scripts/OpenPR.txt
+Call scripts/SearchPR.txt
+Call scripts/LogPR.txt

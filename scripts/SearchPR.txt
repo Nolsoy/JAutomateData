@@ -1,0 +1,25 @@
+Begin "Search"
+	WaitVerify "{ImageFolder}/1460450071878.png" 4 7 69 85
+	Write "Adidas Stan Smith"[ENTER]
+	Wait 1000
+	Type [PAGE_DOWN]
+	Wait 2000
+	Click "{ImageFolder}/1460451593832.png"
+	Wait 1000
+	Click "{ImageFolder}/1460451963004.png" 5 7 49 16
+	WaitVerify "{ImageFolder}/1460452685752.png"
+	Type [PAGE_DOWN]
+	Click "{ImageFolder}/1460452233466.png"
+	Type [PAGE_DOWN]
+	Wait 1000
+	Click "{ImageFolder}/1460452274338.png" 31 57
+	WaitVerify "{ImageFolder}/1460452969773.png" 8 9 89 16
+	MouseMove "{ImageFolder}/1460458182876.png" 44 56
+	Wait 1000
+	Click "{ImageFolder}/1460458266732.png"
+	Wait 5000
+	Set done {"Test genomfört"}
+	
+
+	
+	

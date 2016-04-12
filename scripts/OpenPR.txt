@@ -1,0 +1,5 @@
+Begin "Open Pricerunner"
+	StartWeb "http://www.pricerunner.se"
+	
+	
+	
